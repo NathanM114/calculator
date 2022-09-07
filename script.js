@@ -6,8 +6,8 @@ const divBtn = document.querySelector('.divide');
 const equalBtn = document.querySelector('.equals');
 const backBtn = document.querySelector('.delete');
 const clearBtn = document.querySelector('.clear');
-const current = document.querySelector('.current-result');
-const previous = document.querySelector('.previous-result');
+const current = document.querySelector('.current');
+const previous = document.querySelector('.previous');
 
 var operation = undefined;
 
